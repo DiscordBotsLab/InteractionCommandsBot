@@ -17,7 +17,7 @@ Clone the repository onto your system
 ```sh
 git clone 'https://github.com/DiscordBotsLab/InteractionCommandsBot'
 ```
-Open your code editor (eg: Webstorm, Visual Studio Code) and locate to `src/client.js`
+Open the new direcory in your code editor and locate to `src/client.js`
 ```js
 import * as Discord from 'discord.js'
 import express from 'express'
