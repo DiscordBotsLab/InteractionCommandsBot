@@ -1,4 +1,4 @@
-# InteractionCommandsBot
+# Interaction Commands Bot
 A basic Interaction Commands bot which personalizes Interaction Commands for a server,
 allows users with `MANAGE_GUILD` permission to create, edit and delete interaction commands for their server
 
