@@ -1,20 +1,17 @@
 # Interaction Commands Bot
 A basic Interaction Commands bot which personalizes Interaction Commands for a server,
-allows users with `MANAGE_GUILD` permission to create, edit and delete interaction commands for their server
+allows users with `MANAGE_GUILD` permission to create, edit and delete interaction commands for their server<br>
 
-```
-Use /create to create an Interaction Command
-Use /patch to path an Interaction Command
-Use /delete to delete an Interaction Command
-All global Interaction Commands are labeled it with 'System'
-```
+Use /create to create an Interaction Command<br>
+Use /patch to path an Interaction Command<br>
+Use /delete to delete an Interaction Command<br>
+All global Interaction Commands are labeled with **System**<br>
 
-Requirements:
+### Requirements
 - Node version 14 or above
 - npm
-- discord.js, express and quick.db
 
-# Getting the bot up and running
+## Getting the bot up and running
 Clone the repository onto your system
 
 ```sh
@@ -50,10 +47,7 @@ export default class Client extends Discord.Client {
     }
 }
 ```
-Locate to line 10 and replace 'someCrazyToken' from your Discord Application token ([click here](https://discord.com/developers/applications))<br><br>
+Locate to line 10 and replace 'someCrazyToken' from your Discord Application token ([click here](https://discord.com/developers/applications))<br>
 Finally run the `start` script using `npm run start` or run `node .` in your shell
 
-# Contributing
-We are currently not allowing any new colaborators, however you can create a Pull Request!
-
-**Original by advaith1 - [Slashtags](https://github.com/advaith1/slashtags)**
+#### Original by advaith1 - [Slashtags](https://github.com/advaith1/slashtags)
