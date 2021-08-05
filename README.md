@@ -3,7 +3,7 @@ A basic Interaction Commands bot which personalizes Interaction Commands for a s
 allows users with `MANAGE_GUILD` permission to create, edit and delete interaction commands for their server<br>
 
 Use /create to create an Interaction Command<br>
-Use /patch to path an Interaction Command<br>
+Use /patch to patch an Interaction Command<br>
 Use /delete to delete an Interaction Command<br>
 All global Interaction Commands are labeled with **System**<br>
 
