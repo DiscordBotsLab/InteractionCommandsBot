@@ -50,7 +50,7 @@ export default class Client extends Discord.Client {
     }
 }
 ```
-Locate to line 10 and replace 'someCrazyToken' from your Discord Application token ([click here](https://developers.discord.com))<br><br>
+Locate to line 10 and replace 'someCrazyToken' from your Discord Application token ([click here](https://discord.com/developers/applications))<br><br>
 Finally run the `start` script using `npm run start` or run `node .` in your shell
 
 # Contributing
