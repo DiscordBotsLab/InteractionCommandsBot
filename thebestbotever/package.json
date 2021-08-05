@@ -1,0 +1,19 @@
+{
+  "name": "interactioncommandsbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "discord.js": "^13.0.0-dev.t1627949059.35fa3b3",
+    "express": "^4.17.1",
+    "quick.db": "^7.1.3"
+  }
+}
